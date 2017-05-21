@@ -28,7 +28,7 @@ tt=te-ts+1
 *nino 4 'nino4ori=aave(sstanom,lon=160,lon=210,lat=-5,lat=5)'
 *nino 3 'nino4ori=aave(sstanom,lon=215,lon=265,lat=-5,lat=5)'
 
-*'/Users/martinpking/work_8jul2011.dir/from_martin_king_scratch/scripts/polst 30 n'
+*'/Users/martinpeterking/work_2016dec.dir/martinking_temporary.dir/Desktop/work_sep2016.dir/scripts/polst 0 n'
 
 'set t 1'
 'set dfile 2'
